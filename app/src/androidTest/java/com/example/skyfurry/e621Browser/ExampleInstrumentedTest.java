@@ -1,4 +1,4 @@
-package com.example.techjm.myfirstapplication;
+package com.example.techjm.e621Browser;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

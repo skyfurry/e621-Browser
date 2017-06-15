@@ -1,4 +1,4 @@
-package com.example.techjm.myfirstapplication;
+package com.example.techjm.e621Browser;
 
 import org.junit.Test;
 
