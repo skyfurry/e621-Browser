@@ -1,4 +1,4 @@
-package com.example.techjm.e621Browser;
+package com.example.skyfurry.e621Browser;
 
 import android.content.Intent;
 import android.os.Vibrator;
@@ -12,6 +12,8 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.example.techjm.e621Browser.R;
 
 import static java.lang.Integer.parseInt;
 

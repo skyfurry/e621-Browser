@@ -1,4 +1,4 @@
-package com.example.techjm.e621Browser;
+package com.example.skyfurry.e621Browser;
 
 import org.junit.Test;
 

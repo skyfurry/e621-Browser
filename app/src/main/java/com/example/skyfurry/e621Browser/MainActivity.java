@@ -1,4 +1,4 @@
-package com.example.techjm.e621Browser;
+package com.example.skyfurry.e621Browser;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -7,6 +7,9 @@ import android.view.HapticFeedbackConstants;
 import android.view.View;
 import android.widget.CheckBox;
 import android.widget.EditText;
+
+import com.example.skyfurry.e621Browser.DisplayMessageActivity;
+import com.example.techjm.e621Browser.R;
 
 import java.util.Random;
 
