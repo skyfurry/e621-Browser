@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">E621 Browser</string>
+    <string name="edit_message">Enter Post Number</string>
+    <string name="button_send">Start</string>
+</resources>
